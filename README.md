@@ -1,4 +1,4 @@
-# Getting Started with Mipi_Cam Node
+# 使用说明
 ---
 # Intro
 ---
